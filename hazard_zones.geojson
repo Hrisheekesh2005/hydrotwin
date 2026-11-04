@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "name": "Wayanad_Hazard_Reference_Points",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1341667,
+          11.4627778
+        ]
+      },
+      "properties": {
+        "id": "GSI-2024-01",
+        "name": "Mundakkai-Chooralmala landslide",
+        "hazard_type": "LANDSLIDE",
+        "description": "GSI First Information Report; coordinate reported in DMS as 11\u00b027'46\" N, 76\u00b008'03\" E",
+        "source": "GSI",
+        "source_ref": "turn703681search72",
+        "use": "ACTIVE_EVENT_INVENTORY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.136272,
+          11.466763
+        ]
+      },
+      "properties": {
+        "id": "NRSC-2024-AOI01",
+        "name": "Chooralmala observed landslide/debris-flow impact area",
+        "hazard_type": "LANDSLIDE_DEBRIS_FLOW",
+        "description": "Approximate representative point derived from the NRSC charter's location statement; use the actual NRSC impact product for geometry, not this point.",
+        "source": "NRSC/ISRO",
+        "source_ref": "turn733015search52",
+        "use": "REFERENCE_POINT_ONLY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.15987,
+          11.49923
+        ]
+      },
+      "properties": {
+        "id": "OSM-CHM",
+        "name": "Chooralmala locality",
+        "hazard_type": "AFFECTED_LOCALITY",
+        "description": "Locality coordinate; not itself a hazard boundary.",
+        "source": "Wikidata/SEC Kerala",
+        "source_ref": "turn703681search1",
+        "use": "REFERENCE_POINT_ONLY"
+      }
+    }
+  ]
+}

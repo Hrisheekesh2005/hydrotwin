@@ -1,0 +1,4 @@
+ID,Name,HazardType,Latitude,Longitude,Description,Source,SourceRef,Use
+GSI-2024-01,Mundakkai-Chooralmala landslide,LANDSLIDE,11.4627778,76.1341667,"GSI First Information Report; coordinate reported in DMS as 11°27'46"" N, 76°08'03"" E",GSI,turn703681search72,ACTIVE_EVENT_INVENTORY
+NRSC-2024-AOI01,Chooralmala observed landslide/debris-flow impact area,LANDSLIDE_DEBRIS_FLOW,11.466763,76.136272,"Approximate representative point derived from the NRSC charter's location statement; use the actual NRSC impact product for geometry, not this point.",NRSC/ISRO,turn733015search52,REFERENCE_POINT_ONLY
+OSM-CHM,Chooralmala locality,AFFECTED_LOCALITY,11.49923,76.15987,Locality coordinate; not itself a hazard boundary.,Wikidata/SEC Kerala,turn703681search1,REFERENCE_POINT_ONLY
