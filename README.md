@@ -267,8 +267,8 @@ If any layers are unavailable, update their data-source paths and verify that th
 **Competition:** MATRIX 2026
 
 **Team Members:**
-- Jaisy Sunil
 - Hrisheekesh Narayan P E
+- Jaisy Sunil
 - Aardra S.V
 - Mohammed Ameen
 
