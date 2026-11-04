@@ -1,0 +1,9 @@
+ID,Name,Latitude,Longitude,Type,Source,SourceRef
+1,Mundakai village/locality,11.48648,76.15573,ORIGIN_REFERENCE,OpenStreetMap-derived via Mapcarta,turn858384search2
+2,Chooralmala village,11.49923,76.15987,AFFECTED_AREA_REFERENCE,Wikidata / SEC Kerala reference,turn703681search1
+3,Chooralmala bus stop,11.50008,76.15947,ACCESS_POINT,OpenStreetMap-derived via Mapcarta,turn512220search3
+4,Village Office Vellaramala,11.50338,76.1614,GOVT_POINT,OpenStreetMap-derived via Mapcarta,turn512220search1
+5,GHSS Meppadi,11.561026,76.130557,SAFE_CANDIDATE,Wikidata / Kerala school data references,turn703681search3
+6,Meppadi Grama Panchayat Office,11.55959,76.13107,CONTROL_POINT,OpenStreetMap-derived via Mapcarta,turn858384search3
+7,Government LP School Mundakai,11.48985,76.15551,AFFECTED_FACILITY,OpenStreetMap-derived via Mapcarta,turn282653search2
+8,Meppadi Grama Panchayat geographic center,11.537819,76.13355,ADMIN_REFERENCE,Wikidata / Open Data Kerala reference,turn282653search3

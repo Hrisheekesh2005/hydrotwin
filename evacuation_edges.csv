@@ -1,0 +1,11 @@
+EdgeID,From,To,TravelTimeMin,StraightLineKm,Status,Note
+1,1,2,3.98,1.488,CANDIDATE_NOT_ROAD_ROUTING,Travel time is a placeholder based on straight-line distance; replace with OSM road-network routing.
+2,2,3,1.21,0.104,CANDIDATE_NOT_ROAD_ROUTING,Travel time is a placeholder based on straight-line distance; replace with OSM road-network routing.
+3,2,4,1.98,0.491,CANDIDATE_NOT_ROAD_ROUTING,Travel time is a placeholder based on straight-line distance; replace with OSM road-network routing.
+4,2,7,3.29,1.146,CANDIDATE_NOT_ROAD_ROUTING,Travel time is a placeholder based on straight-line distance; replace with OSM road-network routing.
+5,3,4,1.85,0.423,CANDIDATE_NOT_ROAD_ROUTING,Travel time is a placeholder based on straight-line distance; replace with OSM road-network routing.
+6,4,5,15.47,7.237,CANDIDATE_NOT_ROAD_ROUTING,Travel time is a placeholder based on straight-line distance; replace with OSM road-network routing.
+7,4,6,15.14,7.07,CANDIDATE_NOT_ROAD_ROUTING,Travel time is a placeholder based on straight-line distance; replace with OSM road-network routing.
+8,5,6,1.34,0.169,CANDIDATE_NOT_ROAD_ROUTING,Travel time is a placeholder based on straight-line distance; replace with OSM road-network routing.
+9,1,7,1.75,0.375,CANDIDATE_NOT_ROAD_ROUTING,Travel time is a placeholder based on straight-line distance; replace with OSM road-network routing.
+10,2,6,15.82,7.409,CANDIDATE_NOT_ROAD_ROUTING,Travel time is a placeholder based on straight-line distance; replace with OSM road-network routing.

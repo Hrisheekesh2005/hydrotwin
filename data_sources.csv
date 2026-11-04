@@ -1,0 +1,8 @@
+Dataset,URL,Purpose,HowToUse,Notes
+OpenStreetMap Kerala extract,https://download.openstreetmap.fr/extracts/asia/india/kerala-latest.osm.pbf,Real road/network source,Download locally; filter to Meppadi/Mundakkai in QGIS or with OSM tooling.,Current index dated 2026-09-07
+KSDMA GSI 2022 Wayanad landslide susceptibility,https://sdma.kerala.gov.in/wp-content/uploads/2025/08/Wayanad.zip,Official landslide susceptibility shapefile,Download and unzip; use as polygon hazard layer.,KSDMA page identifies GSI 2022 district shapefiles
+KSDMA Wayanad historical flood hazard maps,https://sdma.kerala.gov.in/wp-content/uploads/2022/05/Wayanad__Hist.pdf,Flood hazard probability maps,Use for district-scale context; not a substitute for local hydraulic inundation modelling.,KSDMA/KSREC/UNEP/UN GRID/CIMA
+NRSC/ISRO Chooralmala impact charter,https://bhuvan-app1.nrsc.gov.in/disaster/usrtasks/landslide/doc/Charter_1029_VAP_3_31july2024.pdf,Observed landslide/debris-flow impact reference,Digitize/import the actual impact geometry from the product; do not use a hand-drawn rectangle.,NRSC/ISRO
+KSDMA Hazard Maps,https://sdma.kerala.gov.in/hazard-maps/,Official hazard-map index,Authoritative starting point for flood and landslide datasets.,KSDMA
+Wayanad District Administration,https://wayanad.nic.in/documents/,Current district orders/documents,Use for current road/rehabilitation/project-status updates.,District Administration / NIC
+KSDMA Government Orders,https://sdma.kerala.gov.in/government-orders-5/,Bridge/road reconstruction and disaster-management status,Use to maintain current infrastructure status.,KSDMA
