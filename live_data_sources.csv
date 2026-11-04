@@ -1,0 +1,4 @@
+Dataset,URL,Purpose,Notes,SourceRef
+KSDMA DMSuite Wayanad rainfall,https://www.dmsuite.kerala.gov.in/,Live/near-live disaster-management and rainfall information,Use as an external data source when implementing real-time ingestion.,turn733015search11
+Wayanad Health Department directory,https://wayanad.nic.in/tribal-cell-helpline/,Official CHC/hospital contacts,Includes Community Health Centre Meppadi contact information.,turn858384search5
+Kerala school data / Sametham,https://sametham.kite.kerala.gov.in/,Official school dataset,Use to validate shelter/assembly-point candidates.,turn282653search7
